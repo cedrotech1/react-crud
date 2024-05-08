@@ -1,0 +1,25 @@
+table{
+  background-color: rgb(227, 227, 243);
+  padding: 0.3cm;
+  width: 50%;
+}
+tr{
+ background-color:rgb(253, 253, 253);
+ height: 1cm;
+}
+
+
+/* form */
+
+form{
+  background-color: rgb(227, 227, 243);
+  padding: 0.3cm;
+  width: 50%;
+  margin-bottom: 1cm;
+}
+input,button{
+  height: 1cm;
+  margin: 0.3cm;
+  border:0px;
+  width: 40%;
+}
